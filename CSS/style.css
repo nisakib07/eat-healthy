@@ -1,6 +1,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
     font-family: 'Poppins', sans-serif;
+    margin: 40px;
 }
 
 .top {
@@ -31,4 +32,15 @@ body {
     padding: 15px;
     color: white;
     border-radius: 25px;
+}
+
+.middle {
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.middle img {
+    height: 400px;
+    padding-left: 49px;
 }
